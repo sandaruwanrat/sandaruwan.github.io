@@ -30,7 +30,11 @@ Hello
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### BIO
+
+I am currently a Biology Master's student at Arkansas State University, interested in bioinformatics and machine learning applications in plant biology. The vast potential of computational analysis, when combined with natural sciences, always fascinated me. Hence, I joined Arkansas State University with the ambition to become a Data Scientist in bioinformatics. 
+
+
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sandaruwanrat/sandaruwan.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
